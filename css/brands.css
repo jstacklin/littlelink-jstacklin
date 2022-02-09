@@ -317,3 +317,11 @@ button:hover,
 .button.button-wordpress:hover,
 .button.button-wordpress:focus {
   filter: brightness(90%) }
+
+/* Resume */
+.button.button-resume {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-github:hover,
+.button.button-github:focus {
+  filter: brightness(90%) }
