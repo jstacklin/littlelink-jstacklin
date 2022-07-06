@@ -325,3 +325,12 @@ button:hover,
 .button.button-github:hover,
 .button.button-github:focus {
   filter: brightness(90%) }
+
+
+/* Notary */
+.button.button-notary {
+  color: #FFFFFF;
+  background-color: #000000 }
+.button.button-github:hover,
+.button.button-github:focus {
+  filter: brightness(90%) }
